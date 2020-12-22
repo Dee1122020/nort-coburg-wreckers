@@ -113,5 +113,6 @@ Rails.application.configure do
 
   #config.action_mailer.default_url_options = { host: https://north-coburg-wreckers.herokuapp.com/ }
 
-  
+  #config.serve_static_assets = true
+
 end
